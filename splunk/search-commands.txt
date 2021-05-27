@@ -29,3 +29,4 @@ sourcetype=”access*” status=”2*”
 sourcetype=”access*”| stats count by eventtype
 
 sourcetype=”access*” status=”404” | stats count by category_id
+##
