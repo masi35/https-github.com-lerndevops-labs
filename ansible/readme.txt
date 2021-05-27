@@ -34,3 +34,5 @@ Ansible Terminlogy
 	
 		look at: https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html     for more terms used in ansible. 
 		
+		thanks
+		
