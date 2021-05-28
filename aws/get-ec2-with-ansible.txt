@@ -62,3 +62,4 @@ ansible playbook to procure an ec2 instance
         content: "{% for host in groups.myservers %}{{ hostvars[host].inventory_hostname }}\n{% endfor %}"
         dest: /tmp/ec2-inventory
       delegate_to: localhost
+###
